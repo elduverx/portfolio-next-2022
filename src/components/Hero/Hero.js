@@ -9,7 +9,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Hello There <br/>
-        I am Duver Muriel
+        I am Pedro
       </SectionTitle>
       <SectionText>
         React Frontend Developer focused in help people making shining on the internet
